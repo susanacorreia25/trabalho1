@@ -22,6 +22,15 @@
 
 <br>
 <h5>Para adicionar um colaborador à seu repositório, entre em seu repositório e clique em "settings"</h5>
+![image](https://github.com/susanacorreia25/trabalho1/assets/162379537/9be426d8-305c-4250-9172-2979a84e843b)
+
+<br>
+<h5>Em seguida clique em "colaborators"</h5>
+![image](https://github.com/susanacorreia25/trabalho1/assets/162379537/8d76f06f-2d28-41f8-bd7f-036368cb4712)
+
+<br>
+<h5>Para adicionar um colaborador, clique em "add pepople" e digite o nome de usuário ou o email do colaborador que você quer adicionar</h5>
+![image](https://github.com/susanacorreia25/trabalho1/assets/162379537/e41d3131-3b85-4467-bd33-b31aa8666c25)
 
 
 <br>
