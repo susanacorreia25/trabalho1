@@ -31,6 +31,10 @@
 ![google](prints/11.png)
 <h5>-> Para utilizar esse comando é necessário ter o link do repositório, que pode ser conseguido ao clicar em "code" na parte principal do repositório online.</h5>
 
+<br>
+<h5>Para adicionar um colaborador ao seu repositório do Git hub faça os seguintes passos:</h5>
+
+
 ![google](prints/19.png)
 
 <br>
