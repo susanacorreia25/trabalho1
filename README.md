@@ -21,6 +21,10 @@
 <h5>-> Preencha as informações a respeito de seu repositório, se lembre de deixar em público e de que o nome de seu repositório precisa ser dado sem espaços.</h5>
 
 <br>
+<h5>Para adicionar um colaborador à seu repositório, entre em seu repositório e clique em "settings"</h5>
+
+
+<br>
 <h5>Após entrar no Git Bash, digite "git init" para iniciar seu repositório.</h5>
 
 ![google](prints/10.png)
@@ -30,10 +34,6 @@
 
 ![google](prints/11.png)
 <h5>-> Para utilizar esse comando é necessário ter o link do repositório, que pode ser conseguido ao clicar em "code" na parte principal do repositório online.</h5>
-
-<br>
-<h5>Para adicionar um colaborador ao seu repositório do Git hub faça os seguintes passos:</h5>
-
 
 ![google](prints/19.png)
 
