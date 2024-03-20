@@ -22,7 +22,7 @@
 
 <br>
 <h5>Para adicionar um colaborador à seu repositório, entre em seu repositório e clique em "settings"</h5>
-![config](C:\Users\susan\Desktop\ESCOLA- BG\LP- Aline\prints)
+![google](prints/20.png)
 
 <br>
 <h5>Em seguida clique em "collaborators"</h5>
