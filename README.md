@@ -22,18 +22,22 @@
 
 <br>
 <h5>Para adicionar um colaborador à seu repositório, entre em seu repositório e clique em "settings"</h5>
+
 ![google](prints/20.png)
 
 <br>
 <h5>Em seguida clique em "collaborators"</h5>
+
 ![google](prints/21.png)
 
 <br>
 <h5>Para adicionar um colaborador, clique em "add pepople"</h5>
+
 ![google](prints/22.png)
 
 <br>
 <h5>Digite o nome de usuário ou o email do colaborador que você quer adicionar nesse local:</h5>
+
 ![google](prints/23.png)
 
 <br>
