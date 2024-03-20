@@ -1,3 +1,5 @@
+<h5>Nome: Susana e Kauan | Turma:2ºJogos | Turma B </h5>
+
 # GIT BASH
 
 ##### Ao abrir o google, digite github na aba de pesquisa.
